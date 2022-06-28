@@ -1,0 +1,54 @@
+stages:
+  - build
+  - deploy
+
+#setup build docs scripts
+build-job:
+  tags:
+    # Use group tag says in video
+    # Meeting says use green1
+    - green1
+  stage: build
+  script:
+    # give correct permissions and build documentation tasks
+    - chmod a+x gradlew
+    - ./gradlew --no-daemon build javadoc jacocoTestReport collectStats
+  # only need documents on the master branch
+  only:
+    - master
+  artifacts:
+    #Entire build path
+    paths:
+      - ./build
+
+#deploy documentation scripts
+deploy-job:
+  tags:
+    # Use group tag says in video
+    # Does not work with group tag as name as instructed on video
+    # Meeting says use green1
+    - green1
+  stage: deploy
+  script:
+    # times out after 5 mins    
+    - eval $(ssh-agent -t 5m -s)
+    # use secret password
+    - ssh-add <(echo "$RSYNC_KEY")
+    - rsync -auvz -e "ssh" build/docs build/reports build/jacoco mrojas@linux.cs.odu.edu:./
+    # kill connection
+    - ssh-agent -k
+    
+    # Timed out when split into three different calls
+    # - rsync -auvz -e "ssh" build/reports/ mrojas@atria.cs.odu.edu:./
+    # - rsync -auvz -e "ssh" build/jacoco mrojas@atria.cs.odu.edu:./
+    
+
+    # debugging lines from kennedy example
+    # - echo "--------RSYNC PLACEHOLDER--------"    
+    # - ls -lah
+    # - echo "------------------------"
+    # - ls -lah build
+    # - echo "------------------------"
+    # - ls -lah build/reports
+    # - echo "------------------------"
+    # - ls -lah build/docs

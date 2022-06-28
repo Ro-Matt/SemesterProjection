@@ -1,0 +1,185 @@
+buildscript {
+    repositories {
+        jcenter()
+
+        // Add Dr Zeil's plugin repo
+       ivy {
+           url 'https://www.cs.odu.edu/~zeil/ivyrepo'
+       }
+    }
+    dependencies {
+        //classpath "org.ysb33r.gradle:doxygen:0.2"
+
+        // Add two Buildscript Dependencies
+        //classpath "org.hidetake:gradle-ssh-plugin:2.5.0+"
+        classpath "edu.odu.cs.zeil:report_accumulator:1.2+"
+        classpath "com.github.jengelman.gradle.plugins:shadow:2.0.3"
+    }
+}
+
+// Add report task imports
+import edu.odu.cs.zeil.report_accumulator.ReportStats
+import edu.odu.cs.zeil.report_accumulator.ReportsDeploy
+// End report task imports
+
+// for ssh-plugin 
+//apply plugin: "org.hidetake.ssh"
+/*
+// for generating javadoc   ./gradlew --no-daemon Javadoc
+apply plugin: "java"
+
+// for building Eclipse project
+apply plugin: "eclipse"
+
+// for generating test coverage  ./gradlew --no-daemon jacocoTestReport
+apply plugin: "jacoco"
+
+// for code style/error checks ./gradlew --no-daemon check
+apply plugin: "findbugs"
+apply plugin: "pmd"
+
+//for style analysis      ./gradlew --no-daemon checkstyleMain
+apply plugin: "checkstyle"
+*/
+plugins { 
+	id "java" 
+	id "eclipse"
+	id "jacoco" 
+	id "findbugs"
+	id "pmd"
+	id "checkstyle"
+	id "org.hidetake.ssh" version "2.1.1"
+	//id "com.github.johnrengelman.shadow" version "5.2.0"
+//    id 'edu.odu.cs.report_accumulator' version '1.3'
+}
+
+//reportStats.reportsURL = 'https://www.cs.odu.edu/~mrojas/cs350/statistics/'
+//deployReports.deployDestination = 'https://www.cs.odu.edu/~mrojas/cs350/statistics/'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+
+repositories {
+    jcenter()
+
+}
+
+dependencies {
+    testCompile "junit:junit:4.12"
+    testCompile "org.hamcrest:hamcrest-library:1.3"
+
+    implementation group: 'org.apache.commons', name: 'commons-compress', version: '1.20'
+    implementation group: 'org.apache.poi', name: 'poi', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-examples', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-excelant', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-ooxml', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-ooxml-full', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-ooxml-lite', version: '5.0.0'
+    implementation group: 'org.apache.poi', name: 'poi-scratchpad', version: '5.0.0'
+    implementation group: 'org.apache.xmlbeans', name: 'xmlbeans', version: '4.0.0'
+
+
+}
+//Tangerine1
+jar {
+	   baseName = 'EnrollmentProjection'
+       manifest {
+        attributes 'Main-Class': 'edu.odu.cs.cs350.EnrollmentProjection.SemesterParser'
+    }
+}
+
+///Compatability error unable to run in command line.
+
+//shadowJar {
+//    configurations = [project.configurations.implementation]
+//}
+
+//build.dependsOn shadowJar
+
+test {
+    reports {
+        html.enabled = true
+    }           
+    ignoreFailures = true
+
+    testLogging {
+        events "passed", "skipped", "failed", "standardOut", "standardError"
+    }
+
+}
+
+javadoc {
+    failOnError false    
+}
+
+findbugsMain {
+    ignoreFailures true
+    reports {
+        xml.enabled false
+        html.enabled true
+    }
+}
+
+findbugsTest {
+    ignoreFailures true
+    reports {
+        xml.enabled false
+        html.enabled true
+    }
+}
+
+pmd {
+    ignoreFailures = true
+    ruleSets = [
+        "java-basic",
+        "java-braces",       
+        "java-codesize",        
+        "java-empty",        
+        "java-imports",
+        "java-naming",       
+        "java-strictexception",
+        "java-strings",
+        "java-sunsecure",
+        "java-typeresolution",
+        "java-unnecessary",
+        "java-unusedcode"
+    ]
+}
+
+jacoco {
+    toolVersion = "0.8.6"
+}
+
+jacocoTestReport {
+    reports {
+        html.enabled true
+        xml.enabled true
+        csv.enabled true
+    }
+}
+
+// Check Style Config
+checkstyle {
+    ignoreFailures = true
+    showViolations = false
+}
+
+tasks.withType(Checkstyle) {
+    reports {
+        html.destination project.file("build/reports/checkstyle/main.html")
+    }
+}
+checkstyleTest.enabled = false
+// End Checkstyle config
+
+// Setup Statistics tasks
+task collectStats (type: ReportStats, dependsOn: "build") {
+    reportsURL = "https://www.cs.odu.edu/~mrojas/cs350/statistics/"
+}
+
+// Deploy csv stats files
+task report (type: ReportsDeploy, dependsOn: "collectStats") {
+    // Test locally on atria
+    deployDestination = "/home/mrojas/secure_html/cs350/statistics/"
+}

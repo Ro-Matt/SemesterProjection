@@ -1,0 +1,268 @@
+Seats,CRN,SUBJ,CRSE,TITLE,CR HRS,XLST CAP,ENR,LINK,XLST GROUP,SCHED TYPE,,CAMPUS,INSM,PRINT?,TIME,DAYS,BLDG,ROOM,OVERRIDE,INSTRUCTOR,,OVERALL CAP,OVERALL ENR,,,PTRM START,PTRM END,WL CAP,WL,WL REMAIN,NOTES,COMMENTS,COLL
+20,33060,CS,112,"Information Literacy for Former Engineering Majors",1,20,0,,,,,,,Y,,,WEB2
+20,33061,CS,112,"Information Literacy for Former Engineering Majors",1,20,0,,,,,,,Y,,,WEB5
+5,33062,CS,112,"Information Literacy for Former Engineering Majors",1,5,0,,,,,,,Y,,,WEB7
+5,33814,CS,112,"Information Literacy for Former Engineering Majors",1,5,0,,,,,,,Y,,,WEB8
+28,32052,CS,120G,"INTRO INFO LITERACY & RSCH (A)",3,30,2,,,,,,,Y,,,WEB2
+30,32053,CS,120G,"INTRO INFO LITERACY & RSCH (A)",3,30,0,,,,,,,Y,,,WEB5
+30,32054,CS,120G,"INTRO INFO LITERACY & RSCH (A)",3,30,0,,,,,,,Y,,,WEB7
+29,32058,CS,120G,"INTRO INFO LITERACY & RSCH (B)",3,30,1,,,,,,,Y,,,WEB2
+30,32059,CS,120G,"INTRO INFO LITERACY & RSCH (B)",3,30,0,,,,,,,Y,,,WEB5
+30,32060,CS,120G,"INTRO INFO LITERACY & RSCH (B)",3,30,0,,,,,,,Y,,,WEB7
+5,33821,CS,120G,"INTRO INFO LITERACY & RSCH (B)",3,5,0,,,,,,,Y,,,WEB8
+5,33823,CS,120G,"INTRO INFO LITERACY & RSCH (B)",3,5,0,,,,,,,Y,,,WEB8
+28,32055,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,30,2,,,,,,,Y,,,WEB2
+30,32056,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,30,0,,,,,,,Y,,,WEB5
+30,32057,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,30,0,,,,,,,Y,,,WEB7
+29,32061,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,30,1,,,,,,,Y,,,WEB2
+30,32062,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,30,0,,,,,,,Y,,,WEB5
+30,32063,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,30,0,,,,,,,Y,,,WEB7
+5,33822,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,5,0,,,,,,,Y,,,WEB8
+5,33824,CS,120G,"INTRO INFO LITERACY & RSCH (B)",0,5,0,,,,,,,Y,,,WEB8
+29,32764,CS,121G,"INTR INFO LIT/RSCH FOR SCI (D)",3,30,1,,,,,,,Y,,,WEB2
+30,32765,CS,121G,"INTR INFO LIT/RSCH FOR SCI (D)",3,30,0,,,,,,,Y,,,WEB5
+30,32766,CS,121G,"INTR INFO LIT/RSCH FOR SCI (D)",3,30,0,,,,,,,Y,,,WEB7
+30,32770,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",3,30,0,,,,,,,Y,,,WEB2
+30,32771,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",3,30,0,,,,,,,Y,,,WEB5
+30,32772,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",3,30,0,,,,,,,Y,,,WEB7
+5,33825,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",3,5,0,,,,,,,Y,,,WEB8
+5,33827,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",3,5,0,,,,,,,Y,,,WEB8
+29,32767,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,30,1,,,,,,,Y,,,WEB2
+30,32768,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,30,0,,,,,,,Y,,,WEB5
+30,32769,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,30,0,,,,,,,Y,,,WEB7
+30,32773,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,30,0,,,,,,,Y,,,WEB2
+30,32774,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,30,0,,,,,,,Y,,,WEB5
+30,32775,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,30,0,,,,,,,Y,,,WEB7
+5,33826,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,5,0,,,,,,,Y,,,WEB8
+5,33828,CS,121G,"INTR INFO LIT/RSCH FOR SCI (C)",0,5,0,,,,,,,Y,,,WEB8
+25,30136,CS,150,"Problem Solving and Programming I",4,25,0,,,,,,,Y,,,DRAGAS
+25,30137,CS,150,"Problem Solving and Programming I",0,25,0,,,,,,,Y,,,DRAGAS
+25,31409,CS,150,"Problem Solving and Programming I",0,25,0,,,,,,,Y,,,DRAGAS
+24,31463,CS,170,"Introduction to Computer Architecture I",3,25,1,,,,,,,Y,,,DRAGAS
+30,34401,CS,250,"Problem Solving and Programming II",4,30,0,,,,,,,Y,,,WEB2
+20,34402,CS,250,"Problem Solving and Programming II",4,20,0,,,,,,,Y,,,WEB5
+20,34403,CS,250,"Problem Solving and Programming II",4,20,0,,,,,,,Y,,,WEB7
+10,34404,CS,250,"Problem Solving and Programming II",4,10,0,,,,,,,Y,,,WEB8
+30,34405,CS,250,"Problem Solving and Programming II",0,30,0,,,,,,,Y,,,WC2
+20,34417,CS,250,"Problem Solving and Programming II",0,20,0,,,,,,,Y,,,WC5
+20,34418,CS,250,"Problem Solving and Programming II",0,20,0,,,,,,,Y,,,WC7
+20,34429,CS,250,"Problem Solving and Programming II",0,20,0,,,,,,,Y,,,WC8
+40,34419,CS,250,"Problem Solving and Programming II",0,40,0,,,,,,,Y,,,WC2
+40,34420,CS,250,"Problem Solving and Programming II",0,40,0,,,,,,,Y,,,WC5
+20,34421,CS,250,"Problem Solving and Programming II",0,20,0,,,,,,,Y,,,WC7
+10,34422,CS,250,"Problem Solving and Programming II",0,10,0,,,,,,,Y,,,WC8
+59,32084,CS,252,"Introduction to Unix for Programmers",1,60,1,,,,,,,Y,,,WEB2
+60,32085,CS,252,"Introduction to Unix for Programmers",1,60,0,,,,,,,Y,,,WEB5
+60,32086,CS,252,"Introduction to Unix for Programmers",1,60,0,,,,,,,Y,,,WEB7
+5,33815,CS,252,"Introduction to Unix for Programmers",1,5,0,,,,,,,Y,,,WEB8
+19,30138,CS,300T,"Computers in Society",3,20,1,,,,,,,Y,,,DRAGAS
+18,32008,CS,300T,"Computers in Society",3,18,0,,,,,,,Y,,,GORNTO
+50,32009,CS,300T,"Computers in Society",3,50,0,,,,,,,Y,,,WC2
+48,32010,CS,300T,"Computers in Society",3,50,2,,,,,,,Y,,,WC5
+50,32011,CS,300T,"Computers in Society",3,50,0,,,,,,,Y,,,WC7
+18,32683,CS,300T,"Computers in Society",3,18,0,,,,,,,Y,,,VBHEC
+18,32685,CS,300T,"Computers in Society",3,18,0,,,,,,,Y,,,PEN
+18,32686,CS,300T,"Computers in Society",3,18,0,,,,,,,Y,,,TRICITI
+5,33829,CS,300T,"Computers in Society",3,5,0,,,,,,,Y,,,WC8
+37,32064,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",3,45,8,,,,,,,Y,,,WEB2
+22,32065,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",3,25,3,,,,,,,Y,,,WEB5
+25,32066,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",3,25,0,,,,,,,Y,,,WEB7
+5,33740,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",3,5,0,,,,,,,Y,,,WEB8
+21,32067,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,25,4,,,,,,,Y,,,WEB2
+22,32068,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,25,3,,,,,,,Y,,,WEB5
+25,32069,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,25,0,,,,,,,Y,,,WEB7
+5,33741,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,5,0,,,,,,,Y,,,WEB8
+21,33223,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,25,4,,,,,,,Y,,,WEB2
+25,33224,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,25,0,,,,,,,Y,,,WEB5
+25,33225,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,25,0,,,,,,,Y,,,WEB7
+5,33816,CS,350,"INTR TO SOFTWARE ENGINEERI (A)",0,5,0,,,,,,,Y,,,WEB8
+34,30139,CS,355,"Principles of Programming Languages",3,35,1,,,,,,,Y,,,WEB2
+32,33154,CS,355,"Principles of Programming Languages",3,35,3,,,,,,,Y,,,WEB5
+35,33155,CS,355,"Principles of Programming Languages",3,35,0,,,,,,,Y,,,WEB7
+34,33818,CS,355,"Principles of Programming Languages",3,35,1,,,,,,,Y,,,WEB8
+37,32336,CS,361,"Data Structures and Algorithms",3,40,3,,,,,,,Y,,,WEB2
+38,32337,CS,361,"Data Structures and Algorithms",3,40,2,,,,,,,Y,,,WEB5
+40,32339,CS,361,"Data Structures and Algorithms",3,40,0,,,,,,,Y,,,WEB7
+5,33819,CS,361,"Data Structures and Algorithms",3,5,0,,,,,,,Y,,,WEB8
+20,30140,CS,367,"Cooperative Education",1,20,0,,,,,,,Y,,,
+20,30141,CS,367,"Cooperative Education",2,20,0,,,,,,,Y,,,
+20,30142,CS,367,"Cooperative Education",3,20,0,,,,,,,Y,,,
+40,30143,CS,368,"Computer Science Internship",1,40,0,,,,,,,Y,,,
+20,30144,CS,368,"Computer Science Internship",2,20,0,,,,,,,Y,,,
+20,30145,CS,368,"Computer Science Internship",3,20,0,,,,,,,Y,,,
+24,32012,CS,381,"Introduction to Discrete Structures",3,25,1,,,,,,,Y,,,WEB2
+24,32013,CS,381,"Introduction to Discrete Structures",3,25,1,,,,,,,Y,,,WEB5
+25,32014,CS,381,"Introduction to Discrete Structures",3,25,0,,,,,,,Y,,,WEB7
+25,33300,CS,381,"Introduction to Discrete Structures",3,25,0,,,,,,,Y,,,WEB2
+25,33305,CS,381,"Introduction to Discrete Structures",3,25,0,,,,,,,Y,,,WEB5
+25,33306,CS,381,"Introduction to Discrete Structures",3,25,0,,,,,,,Y,,,WEB7
+5,33742,CS,381,"Introduction to Discrete Structures",3,5,0,,,,,,,Y,,,WEB8
+5,33743,CS,381,"Introduction to Discrete Structures",3,5,0,,,,,,,Y,,,WEB8
+23,30146,CS,390,"Introduction to Theoretical Computer Science",3,25,2,,,,,,,Y,,,DRAGAS
+13,33064,CS,417,"Computational Methods and Software",3,15,2,,,,,,,Y,,,DRAGAS
+20,30147,CS,460,"Computer Graphics",3,20,0,,,,,,,Y,,,DRAGAS
+26,35050,CS,462,"Cybersecurity Fundamentals",3,30,4,,,,,,,Y,,,WEB2
+26,35051,CS,462,"Cybersecurity Fundamentals",3,30,4,,,,,,,Y,,,WEB5
+30,35052,CS,462,"Cybersecurity Fundamentals",3,30,0,,,,,,,Y,,,WEB7
+30,35053,CS,462,"Cybersecurity Fundamentals",3,30,0,,,,,,,Y,,,WEB8
+30,33957,CS,471,"Operating Systems",3,30,0,,,,,,,Y,,,DRAGAS
+30,33958,CS,471,"Operating Systems",0,30,0,,,,,,,Y,,,
+26,32831,CS,471,"Operating Systems",3,30,4,,,,,,,Y,,,WEB2
+17,32832,CS,471,"Operating Systems",3,20,3,,,,,,,Y,,,WEB5
+18,32833,CS,471,"Operating Systems",3,20,2,,,,,,,Y,,,WEB7
+5,33820,CS,471,"Operating Systems",3,5,0,,,,,,,Y,,,WEB8
+10,33240,CS,497,"Independent Study in Computer Science",3,10,0,,,,,,,Y,,,
+10,33258,CS,497,"Independent Study in Computer Science",3,10,0,,,,,,,Y,,,
+10,33265,CS,497,"Independent Study in Computer Science",3,10,0,,,,,,,Y,,,
+10,33266,CS,497,"Independent Study in Computer Science",3,10,0,,,,,,,Y,,,
+10,33277,CS,497,"INDEPEND STUDY:BIOINFORMATICS",3,10,0,,,,,,,Y,,,
+5,35048,CS,497,"INDEPEND STUDY:BIOINFORMATICS",1,5,0,,,,,,,Y,,,
+11,33065,CS,517,"Computational Methods and Software",3,15,4,,,,,,,Y,,,DRAGAS
+29,35054,CS,562,"Cybersecurity Fundamentals",3,30,1,,,,,,,Y,,,WEB2
+30,35055,CS,562,"Cybersecurity Fundamentals",3,30,0,,,,,,,Y,,,WEB5
+30,35056,CS,562,"Cybersecurity Fundamentals",3,30,0,,,,,,,Y,,,WEB7
+30,35057,CS,562,"Cybersecurity Fundamentals",3,30,0,,,,,,,Y,,,WEB8
+5,35049,CS,597,"Independent Study in Computer Science",1,5,0,,,,,,,Y,,,
+20,30148,CS,667,"Cooperative Education",1,20,0,,,,,,,Y,,,
+20,30149,CS,667,"Cooperative Education",2,20,0,,,,,,,Y,,,
+20,30150,CS,667,"Cooperative Education",3,20,0,,,,,,,Y,,,
+20,30151,CS,669,"Practicum",1,20,0,,,,,,,Y,,,
+20,30152,CS,669,"Practicum",2,20,0,,,,,,,Y,,,
+20,30153,CS,669,"Practicum",3,20,0,,,,,,,Y,,,
+15,33152,CS,690,"Colloquium",1,15,0,,,,,,,Y,,,
+27,34983,CS,690,"Colloquium",1,30,3,,,,,,,Y,,,WEB2
+30,34984,CS,690,"Colloquium",1,30,0,,,,,,,Y,,,WEB5
+10,34985,CS,690,"Colloquium",1,10,0,,,,,,,Y,,,WEB7
+5,34986,CS,690,"Colloquium",1,5,0,,,,,,,Y,,,WEB8
+20,30154,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30155,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30156,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30157,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30158,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30159,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30160,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30161,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30162,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30163,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30164,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30165,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+20,30166,CS,697,"Independent Study in Computer Science",3,20,0,,,,,,,Y,,,
+5,31268,CS,697,"Independent Study in Computer Science",3,5,0,,,,,,,Y,,,
+20,30167,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30168,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30169,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30170,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30171,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30172,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30173,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30174,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30175,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30176,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30177,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30178,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30179,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+20,30180,CS,698,"Master's Project",3,20,0,,,,,,,Y,,,
+5,30181,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30182,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30183,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30184,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30185,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30186,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30187,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30188,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30189,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30190,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30191,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30192,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,30193,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+5,31276,CS,699,"Thesis Research",3,5,0,,,,,,,Y,,,
+43,32070,CS,773,"Data Mining and Security",3,50,7,,,,,,,Y,,,WEB2
+49,32071,CS,773,"Data Mining and Security",3,50,1,,,,,,,Y,,,WEB5
+49,32072,CS,773,"Data Mining and Security",3,50,1,,,,,,,Y,,,WEB7
+5,34981,CS,773,"Data Mining and Security",3,5,0,,,,,,,Y,,,WEB8
+5,30194,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30195,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30196,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30197,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30198,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30199,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30200,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30201,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30202,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30203,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30204,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30205,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30206,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30207,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,35450,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,35452,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,35454,CS,791,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+15,35369,CS,795,"TPCS: BRAIN DATA ANALYSIS",3,20,5,,,,,,,Y,,,WEB2
+20,35370,CS,795,"TPCS: BRAIN DATA ANALYSIS",3,20,0,,,,,,,Y,,,WEB5
+19,35371,CS,795,"TPCS: BRAIN DATA ANALYSIS",3,20,1,,,,,,,Y,,,WEB7
+20,35372,CS,795,"TPCS: BRAIN DATA ANALYSIS",3,20,0,,,,,,,Y,,,WEB8
+49,32073,CS,873,"Data Mining and Security",3,50,1,,,,,,,Y,,,WEB2
+50,32074,CS,873,"Data Mining and Security",3,50,0,,,,,,,Y,,,WEB5
+50,32075,CS,873,"Data Mining and Security",3,50,0,,,,,,,Y,,,WEB7
+5,34982,CS,873,"Data Mining and Security",3,5,0,,,,,,,Y,,,WEB8
+5,30208,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30209,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30210,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30211,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30212,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30213,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30214,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30215,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30216,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30217,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30218,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30219,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,30220,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,35451,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,35453,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+5,35455,CS,891,"Graduate Seminar",3,5,0,,,,,,,Y,,,
+20,35373,CS,895,"TPCS: BRAIN DATA ANALYSIS",3,20,0,,,,,,,Y,,,WEB2
+20,35374,CS,895,"TPCS: BRAIN DATA ANALYSIS",3,20,0,,,,,,,Y,,,WEB5
+20,35375,CS,895,"TPCS: BRAIN DATA ANALYSIS",3,20,0,,,,,,,Y,,,WEB7
+20,35376,CS,895,"TPCS: BRAIN DATA ANALYSIS",3,20,0,,,,,,,Y,,,WEB8
+10,31543,CS,896,"Topics in Computer Science",3,10,0,,,,,,,Y,,,
+19,30221,CS,899,"Doctoral Dissertation",1,20,1,,,,,,,Y,,,
+20,30222,CS,899,"Doctoral Dissertation",2,20,0,,,,,,,Y,,,
+20,30223,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30224,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30225,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30226,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30227,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30228,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30229,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30230,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30231,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30232,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30233,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30234,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30235,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30236,CS,899,"Doctoral Dissertation",3,20,0,,,,,,,Y,,,
+20,30237,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30238,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30239,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30240,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30241,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30242,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30243,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30244,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30245,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30246,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30247,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30248,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30249,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30250,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+20,30251,CS,899,"Doctoral Dissertation",6,20,0,,,,,,,Y,,,
+5,31250,CS,899,"Doctoral Dissertation",1,5,0,,,,,,,Y,,,
+5,31318,CS,899,"Doctoral Dissertation",1,5,0,,,,,,,Y,,,
+5,31319,CS,899,"Doctoral Dissertation",1,5,0,,,,,,,Y,,,
+5,31530,CS,899,"Doctoral Dissertation",1,5,0,,,,,,,Y,,,
+5,34248,CS,899,"Doctoral Dissertation",1,5,0,,,,,,,Y,,,
+5,34250,CS,899,"Doctoral Dissertation",2,5,0,,,,,,,Y,,,
+1,34276,CS,899,"Doctoral Dissertation",1,1,0,,,,,,,Y,,,
+5,35135,CS,899,"Doctoral Dissertation",1,5,0,,,,,,,Y,,,
+20,30252,CS,999,"Doctoral Graduate Credit",1,20,0,,,,,,,Y,,,

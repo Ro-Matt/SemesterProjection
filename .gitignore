@@ -1,0 +1,15 @@
+# Java Project
+build
+**.class
+
+
+# C++
+**.o
+
+
+#Python
+**.pyc
+/bin/
+/.classpath
+/.project
+/.gradle/
