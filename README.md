@@ -6,5 +6,6 @@ Using the ODU semester registration data, make a calculated estimate of the amou
 * First project written in Java
 * How to accept command line arguments of .csv files to harvest the data
 * How to write a gradle file
+* How to write test cases
 * How to use Apache in Java
 * How to write to an excel workbook using Apache 
